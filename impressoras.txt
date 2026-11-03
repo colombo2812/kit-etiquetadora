@@ -1,0 +1,3 @@
+﻿# Uma impressora por linha, no formato \\SERVIDOR\NOME-DO-COMPARTILHAMENTO
+# Linhas começando com # são ignoradas.
+\\NOME-DA-MAQUINA\ZDesigner ZD220-203dpi ZPL
